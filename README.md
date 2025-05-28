@@ -5,11 +5,10 @@
 
 Создайте два пустых публичных репозитория в любом своём проекте: vector-role и lighthouse-role.
 
-example-teamcity - 
+example-teamcity - https://github.com/dvbychkov/example-teamcity
 
 
 Основная часть
-1. Создайте новый проект в teamcity на основе fork.
 
 <img src = "img/1.JPG" width = 50%>
 
